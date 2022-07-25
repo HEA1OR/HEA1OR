@@ -1,4 +1,6 @@
-### Hi there 👋
+### :heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes:
+
+[![HEA1OR's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEA1OR&show_icons=true&theme=radical)](https://github.com/HEA1OR/github-readme-stats)
 
 <!--
 **HEA1OR/HEA1OR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
